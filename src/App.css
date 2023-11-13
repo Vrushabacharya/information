@@ -66,23 +66,5 @@ body {
   }
 }
 
-/* Media Queries */
-@media screen and (max-width: 768px) {
-  .container {
-    flex-direction: row;
-    align-items: stretch;
-  }
 
-  #photo {
-    position: static;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width: 80%;
-  }
-
-  .description {
-    position: static;
-    text-align: center;
-    margin: 20px;
-  }
-}
+  
